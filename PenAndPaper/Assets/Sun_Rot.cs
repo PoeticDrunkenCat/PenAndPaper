@@ -18,7 +18,7 @@ public class Sun_Rot : MonoBehaviour
 	[HideInInspector]
 	public float secondsPerDay;
 
-	public float timeMultiplier = 1;
+	public float timeMultiplier = 4;
 
 	void Start()
 	{

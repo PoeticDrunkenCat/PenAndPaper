@@ -1,1 +1,2 @@
 PenAndPaper/Temp/
+PenAndPaper/Library/metadata/

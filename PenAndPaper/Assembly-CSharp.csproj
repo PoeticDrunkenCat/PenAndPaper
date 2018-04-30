@@ -51,7 +51,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Sun.cs" />
+     <Compile Include="Assets\MoonRot.cs" />
      <Compile Include="Assets\Sun_Rot.cs" />
  <Reference Include="Facebook.Unity.Settings">
  <HintPath>C:/PoeticDrunkenCat/PenAndPaper/PenAndPaper/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
