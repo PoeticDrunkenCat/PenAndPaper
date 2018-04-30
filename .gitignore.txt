@@ -1,1 +1,1 @@
-PenAndPaper\Temp\*
+PenAndPaper/Temp/
