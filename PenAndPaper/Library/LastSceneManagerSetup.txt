@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/Scenec/sun_and_moon.unity
+  isLoaded: 1
+  isActive: 1
